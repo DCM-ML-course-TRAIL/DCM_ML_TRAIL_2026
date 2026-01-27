@@ -9,7 +9,7 @@
 ### Day 4 – Machine learning approaches for discrete choice analysis (Part 2) (Van Cranenburgh)
 - Utility-based machine learning models (a.k.a. hybrid models)
 - The L-MNL model
-- [Lab session 3B](./Machine%20learning%20approaches%20to%20DCA%20(Van%20Cranenburgh)/Lab_sessions/Lab_session_03B) (Python notebook - hybrid choice models)
+- [Lab session 3B](./Lab_sessions/Lab_session_03B) (Python notebook - hybrid choice models)
 <br><br>
 
 
