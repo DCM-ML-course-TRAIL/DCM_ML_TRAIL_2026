@@ -1,20 +1,15 @@
-# Discrete Choice Analysis: micro-econometrics and machine learning approaches
 ## *Machine learning approaches for discrete choice analysis*
 **Lecturer:** Dr. Sander van Cranenburgh
-
-## Schedule
-**Time**: each day 10.00 – 16.00 h<br>
-**Location**: D2 (ground floor), TPM, Jaffalaan 5<br>
 
 ### Day 3 – Machine learning approaches for discrete choice analysis (Part 1) (Van Cranenburgh)
 - Introduction to machine learning for choice modellers
 - Artificial neural networks & Training
-- [Lab session 3A](./Machine%20learning%20approaches%20to%20DCA%20(Van%20Cranenburgh)/Lab_sessions/lab_session_03A) (Python notebook - neural networks for choice analysis)
+- [Lab session 3A](./Machine%20learning%20approaches%20to%20DCA%20(Van%20Cranenburgh)/Lab_sessions/Lab_session_03A) (Python notebook - neural networks for choice analysis)
 
 ### Day 4 – Machine learning approaches for discrete choice analysis (Part 2) (Van Cranenburgh)
 - Utility-based machine learning models (a.k.a. hybrid models)
 - The L-MNL model
-- [Lab session 3B](./Machine%20learning%20approaches%20to%20DCA%20(Van%20Cranenburgh)/Lab_sessions/lab_session_03B) (Python notebook - hybrid choice models)
+- [Lab session 3B](./Machine%20learning%20approaches%20to%20DCA%20(Van%20Cranenburgh)/Lab_sessions/Lab_session_03B) (Python notebook - hybrid choice models)
 <br><br>
 
 
