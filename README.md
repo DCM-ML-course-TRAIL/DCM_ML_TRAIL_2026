@@ -28,12 +28,12 @@ This course will contain a mix of theory, implementation guidelines, and hands-o
 ### Day 3 – Machine learning approaches for discrete choice analysis (Part 1) (Van Cranenburgh)
 - Introduction to machine learning for choice modellers
 - Artificial neural networks & Training
-- [Lab session 3A](./Lab_sessions/lab_session_03A) (Python notebook - neural networks for choice analysis)
+- [Lab session 3A](./Lab_sessions/Lab_session_03A) (Python notebook - neural networks for choice analysis)
 
 ### Day 4 – Machine learning approaches for discrete choice analysis (Part 2) (Van Cranenburgh)
 - Utility-based machine learning models (a.k.a. hybrid models)
 - The L-MNL model
-- [Lab session 3B](./Lab_sessions/lab_session_03B) (Python notebook - hybrid choice models)
+- [Lab session 3B](./Lab_sessions/Lab_session_03B) (Python notebook - hybrid choice models)
 <br><br>
 
 ## Repository Structure
