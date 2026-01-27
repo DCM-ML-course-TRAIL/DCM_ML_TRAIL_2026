@@ -13,17 +13,18 @@ This course will contain a mix of theory, implementation guidelines, and hands-o
 **Time**: each day 10.00 – 16.00 h<br>
 **Location**: D2 (ground floor), TPM, Jaffalaan 5<br>
 
-### Day 1 – Basics of Discrete choice theory (Hess)
+### Day 1 – Econometric approaches for discrete choice analysis: Basics of discrete choice theory (Hess)
 - Introduction to choice modelling and data requirements
 - Random utility and the logit model
 - Model specification, estimation and interpretation of results
-- Exercise 1 (Apollo)
+- [Apollo practical 1](./Econometric%20approaches%20to%20DCA%20(Hess)/Apollo%20files/Apollo%20practical%201)
 
-### Day 2 – Advances in Discrete choice theory (Hess)
+### Day 2 – Econometric approaches for discrete choice analysis: Advances in discrete choice theory (Hess)
 - Allowing for heterogeneity in preferences
 - Random heterogeneity and the mixed logit model
 - Making predictions from choice models
-- Exercises 2 and 3 (Apollo)
+- [Apollo practical 2](./Econometric%20approaches%20to%20DCA%20(Hess)/Apollo%20files/Apollo%20practical%202)
+- [Apollo practical 3](./Econometric%20approaches%20to%20DCA%20(Hess)/Apollo%20files/Apollo%20practical%203)
 
 ### Day 3 – Machine learning approaches for discrete choice analysis (Part 1) (Van Cranenburgh)
 - Introduction to machine learning for choice modellers
