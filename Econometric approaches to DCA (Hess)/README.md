@@ -1,5 +1,5 @@
 ## *Econometric approaches for discrete choice analysis*
-**Lecturer:** Dr. Stephane Hess
+**Lecturer:** Prof. Stephane Hess
 
 ### Day 1 – Econometric approaches for discrete choice analysis: Basics of discrete choice theory (Hess)
 - Introduction to choice modelling and data requirements
