@@ -14,4 +14,4 @@
 - Exercises 2 and 3 (Apollo)
 
 # Installing and testing Apollo
-To install Apollo, please follow the instructions in the [pdf file](./Econometric%20approaches%20to%20DCA%20(Hess)/Installing%20Apollo.pdf).
+To install Apollo, please follow the instructions in the [pdf file](Installing%20Apollo.pdf).
